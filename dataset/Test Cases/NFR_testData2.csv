@@ -1,0 +1,6 @@
+requirement_sentence
+The system shall provide the ability to record the user ID and date of all updates to the problem or diagnosis list.
+The system shall provide the ability to record the date of changes made to a patient's medication list and the identity of the user who made the changes.
+The system shall provide the ability to capture and maintain  as discrete data  the identity of the user who added  modified  inactivated or removed items from the allergy and adverse reaction list  including attributes of the changed items.
+The user ID and date or time stamp shall be recorded.
+The user ID and date or time stamp shall be recorded when the allergies reviewed option is selected.

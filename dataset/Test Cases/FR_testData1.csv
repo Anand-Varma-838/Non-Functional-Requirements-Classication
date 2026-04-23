@@ -1,0 +1,6 @@
+requirement_sentence
+The system shall create a single patient record for each patient.
+The system shall associate (store and link) key identifier information (e.g.  system ID  medical record number) with each patient record.
+The system shall provide the ability to store more than one identifier for each patient record.
+The system shall provide a field which will identify patients as being exempt from reporting functions.
+The system shall provide the ability to merge patient information from two patient records into a single patient record.
